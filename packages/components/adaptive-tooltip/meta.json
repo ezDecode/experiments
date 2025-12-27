@@ -1,0 +1,6 @@
+{
+  "name": "adaptive-tooltip",
+  "title": "Adaptive Tooltip",
+  "description": "An intelligent tooltip system that adapts to user intent with confidence-based delays.",
+  "dependencies": ["framer-motion", "animejs", "clsx"]
+}

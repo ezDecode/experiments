@@ -1,0 +1,6 @@
+{
+  "name": "motion-surface",
+  "title": "Motion Surface",
+  "description": "A shared layout animation container for list items with smooth background transitions.",
+  "dependencies": ["framer-motion"]
+}

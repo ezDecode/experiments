@@ -1,0 +1,6 @@
+{
+  "name": "text-morph",
+  "title": "Text Morph",
+  "description": "Animates through an array of text strings with smooth morphing transitions.",
+  "dependencies": ["framer-motion"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@experiments/components",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "exports": {
+    ".": "./index.ts",
+    "./adaptive-tooltip": "./adaptive-tooltip/index.ts",
+    "./animated-button": "./animated-button/index.ts",
+    "./infinite-scroller": "./infinite-scroller/index.ts",
+    "./kinetic-text": "./kinetic-text/index.ts",
+    "./motion-surface": "./motion-surface/index.ts",
+    "./text-morph": "./text-morph/index.ts"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18",
+    "framer-motion": ">=10",
+    "animejs": ">=4",
+    "clsx": ">=2"
+  }
+}

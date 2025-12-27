@@ -1,0 +1,6 @@
+{
+  "name": "kinetic-text",
+  "title": "Kinetic Text",
+  "description": "Animated text component that cycles through words with spring physics.",
+  "dependencies": ["framer-motion"]
+}

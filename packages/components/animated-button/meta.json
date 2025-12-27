@@ -1,0 +1,6 @@
+{
+  "name": "animated-button",
+  "title": "Animated Button",
+  "description": "A motion wrapper that adds spring-based scale animations to any button content.",
+  "dependencies": ["framer-motion"]
+}

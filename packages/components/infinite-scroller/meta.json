@@ -1,0 +1,6 @@
+{
+  "name": "infinite-scroller",
+  "title": "Infinite Scroller",
+  "description": "A horizontal infinite scrolling marquee component with seamless looping.",
+  "dependencies": ["framer-motion"]
+}
